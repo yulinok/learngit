@@ -4,7 +4,7 @@ int main(void)
 {
 	printf("%s","hello world!");
 	
-	printf("%s","is ok");
+	printf("%s","the ce is ok");
 	return 0;
 }
 

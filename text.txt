@@ -1,2 +1,1 @@
-print "ok"
-test is ok
+test 1

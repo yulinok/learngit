@@ -1,0 +1,2 @@
+print "ok"
+test is ok

@@ -1,6 +1,6 @@
 this is my first barnch.
-<<<<<<< HEAD
+
 this is second.
-=======
-this IS second.
->>>>>>> feature1
+
+
+
